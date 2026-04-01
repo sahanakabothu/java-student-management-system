@@ -13,5 +13,7 @@ This is a simple Java project demonstrating Object-Oriented Programming concepts
 - OOP concepts
 
 ## Author
-Sahana Kabothu# Java-Student-Management-System
-Basic Java project demonstrating OOP concepts
+Sahana Kabothu
+
+## Update
+Improved code readability and structure
